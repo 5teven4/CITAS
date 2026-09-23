@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "a9db449521ed90e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "95626b391c43da9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2a89491ce35850",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b730767646675987",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a0ebbe3505166d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "233234613117b069",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ade897882cd0b574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "99451d236bb1aaa6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bed403cb609917b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "642569dc89a3839b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f0689e1d9fd99d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "96f480008aca6aeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "e7a008b9cbd8073c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "f35dac31214f9471",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "137bfc1c79354a49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "bb2a89491ce35850",
+  "lastOpenFiles": [
+    "citas-web/node_modules/caniuse-lite/README.md",
+    "citas-web/node_modules/caniuse-lite/package.json",
+    "citas-web/node_modules/caniuse-lite/data/regions/WS.js",
+    "citas-web/node_modules/caniuse-lite/data/features/wordwrap.js",
+    "citas-web/node_modules/caniuse-lite/data/features/word-break.js",
+    "citas-web/node_modules/caniuse-lite/data/features/woff2.js",
+    "citas-web/node_modules/caniuse-lite/data/features/woff.js",
+    "citas-web/node_modules/caniuse-lite/data/features/will-change.js",
+    "citas-web/node_modules/caniuse-lite/data/regions/WF.js",
+    "citas-web/node_modules/caniuse-lite/data/features/webxr.js",
+    "citas-web/node_modules/caniuse-lite/data/features/webworkers.js",
+    "citas-web/node_modules/typescript/README.md",
+    "citas-web/node_modules/vite/LICENSE.md",
+    "citas-web/node_modules/@types/react-dom/README.md",
+    "citas-web/node_modules/@types/react/README.md",
+    "citas-web/node_modules/@babel/code-frame/README.md",
+    "citas-web/node_modules/@esbuild/win32-x64/README.md",
+    "citas-web/node_modules/rollup/LICENSE.md",
+    "citas-web/node_modules/@jridgewell/trace-mapping/README.md",
+    "citas-web/node_modules/react/README.md",
+    "citas-web/node_modules/@jridgewell/gen-mapping/README.md",
+    "citas-web/node_modules/@jridgewell/remapping/README.md",
+    "citas-web/node_modules/@jridgewell/sourcemap-codec/README.md",
+    "citas-web/node_modules/nanoid/README.md",
+    "citas-web/node_modules/json5/README.md",
+    "citas-web/node_modules/json5/LICENSE.md",
+    "citas-web/node_modules/source-map-js/README.md",
+    "citas-web/node_modules/@vitejs/plugin-react/README.md",
+    "citas-web/node_modules/@jridgewell/resolve-uri/README.md",
+    "citas-web/node_modules/baseline-browser-mapping/README.md",
+    "citas-web/node_modules/@babel/generator/README.md",
+    "citas-web/node_modules/@babel/core/README.md",
+    "citas-web/node_modules/@babel/compat-data/README.md",
+    "citas-web/node_modules/@babel/helper-compilation-targets/README.md",
+    "citas-web/node_modules/browserslist/README.md"
+  ]
+}
