@@ -30,7 +30,7 @@ Los dos repos existen como proyectos reales, están gobernados por agentes, Scru
    - diseño de pantallas obligatorias;
    - aprobación explícita;
    - handoff a AI Studio;
-   - escoger React o Angular;
+   - escoger React o Angular; 
    - importar a `citas-web`.
 5. **Primer GOAL**
    - `GOAL_01_GUIADO_SIMPLE.md`.
